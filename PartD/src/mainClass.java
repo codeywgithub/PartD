@@ -6,6 +6,8 @@ public class mainClass {
 
 		System.out.println("Hi my name is Codey");
 		
+		System.out.println("My favourite colour is green");
+		
 		
 		
 		
