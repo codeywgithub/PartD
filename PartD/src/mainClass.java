@@ -8,6 +8,8 @@ public class mainClass {
 		
 		System.out.println("My favourite colour is green");
 		
+		System.out.println("My favourite mode of transportation is the car");
+		
 		
 		
 		
